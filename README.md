@@ -48,7 +48,7 @@
 
 ## Output:![image]![Screenshot (2)](https://github.com/user-attachments/assets/08f3cd6e-12a5-43f1-a04e-6d7c90cf4cda)
 
-![Screenshot (3)](https://github.com/user-attachments/assets/a2bed465-a79e-45cc-869a-63ff60a9d5fe)
+
 ![empd ex1 ss 1](https://github.com/user-attachments/assets/722ce106-6538-4b3d-ac75-95610a57f192)
 
 
